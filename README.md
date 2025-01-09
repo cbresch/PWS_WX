@@ -1,0 +1,1 @@
+This dashboard pulls custom wether sensor infomration from a Raspberry project build along with NOAA 7-day detail forecast information. The dashboard updates automatically every 30-minutes and will dispaly all infomration for the 24-hour period of the current day 0:00 - 24:00 hours. 
